@@ -24,3 +24,10 @@ If you don't know how to use github, don't worry:
 5. If you use a system like `.md notetaking + pandoc` and want to keep them in the same directory with all notes, mind that a `.gitignore` has not been written yet, you're free to push suggestions
 6. If you use such a system like mentioned in `point 5`, please upload only the build results
 
+
+## Meanwhile, since not everyone is fully capable to manage git&github proficiently:
+
+1. **Who already knows** how to use git&github proficiently (creating pull requests, handling revisions ... etc) acts independently respective the aformentioned guidelines
+2. **Who** does know git and github **but doesn't fully know** how to handle its whole devops team pipeline, can just quickly learn the commands, it really doesn't take much
+3. **Woever does not have any grasp** on git and/or github, can simply send notes to the creator of `uni-informatici` (contact mail in organization info) and I'll upload them whenever possible myself. 
+> In the near future we'll all have to acquire proficiency with these tools regardless of our current knowledge.
