@@ -1,4 +1,4 @@
-# Welcome to `uni-informatici`
+# Welcome to `uni-informatici`
 
 This organization is meant for Information Technology, Information Engineering and Computer Science students
 
@@ -14,3 +14,13 @@ If you don't know how to use github, don't worry:
     For any information feel free to contact the Admin/Founder of this place (the writer), such that I may also write a better `README.MD` (the document you're reading) reguarding this organization
 
 **Don't forget to enter the [discord](https://discord.gg/3Kf5K3t4) as well where we can get together!**
+
+
+## General Reccomandations for publishing notes in a Repo
+1. Submit all notes with a `pull request` **DO NOT COMMIT TO MAIN, EVER**
+2. Please sign your notes with name (as filename ending it's enough)
+3. Preferrably, hold your own private repository with your notes, and link it into one of the main respositories of the organization
+4. Do not upload heavy files, not only because git won't let you unless you use LFS, but also because you must mind that anything inside the respository is FULLY into anyone's computer (for who has cloned the repository, ideally everyone). 
+5. If you use a system like `.md notetaking + pandoc` and want to keep them in the same directory with all notes, mind that a `.gitignore` has not been written yet, you're free to push suggestions
+6. If you use such a system like mentioned in `point 5`, please upload only the build results
+
